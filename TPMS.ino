@@ -33,7 +33,7 @@ unsigned char SIDBuf2[6][8]={
 {0, 150, 130, 0, 0, 0, 0, 0}
 };
 
-unsigned char SIDBuf[6][8]={};
+unsigned char SIDBuf[6][8];
 
 unsigned char SIDMystBuf[3][8]={
   {0, 50, 0, 0, 0, 0, 0, 0},
